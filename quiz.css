@@ -1,0 +1,51 @@
+
+/*CSS FOR MAKNG YOUR TREE GROW!*/
+/*Because I really don't like plain ol' HTML*/
+
+* {
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  color: #fff;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #23530D;
+}
+
+header h1 {
+  margin: 50px 15px 5px;
+}
+
+header h2 {
+  margin: 0 15px 25px;
+}
+
+.form {
+  border: 5px solid white;
+  border-radius: 50px;
+  width: 500px;
+  margin: auto;
+  background-color: #438327;
+}
+
+.form label {
+  display: block;
+  margin: 25px 0 5px;
+}
+
+.form input {
+  display: block;
+  width: 50px;
+  margin: 5px auto;
+  color: #23530D;
+}
+
+#button {
+  width: 150px;
+  border-radius: 10px;
+  margin: 20px auto 25px;
+  background-color: #23530D;
+  color: #fff;
+}
